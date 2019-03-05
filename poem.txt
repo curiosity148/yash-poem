@@ -3,7 +3,7 @@ blue
 purple
 green
 violet
-idigo
+
 unicorn
 yellow
 red
