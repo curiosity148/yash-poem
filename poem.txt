@@ -4,6 +4,7 @@ purple
 green
 violet
 unicorn
+indigo
 yellow
 red
 and the unicorn
